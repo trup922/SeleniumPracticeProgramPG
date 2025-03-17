@@ -34,6 +34,8 @@ public class AlertProgram {
 		Alert prompalert = driver.switchTo().alert();
 		prompalert.sendKeys("Priya123");
 		prompalert.accept();
+		
+		//alert 1
 
 	}
 
