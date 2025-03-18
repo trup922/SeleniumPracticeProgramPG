@@ -41,6 +41,8 @@ public class AlertProgram {
 		Alert alert2 = driver.switchTo().alert();
 		alert2.dismiss();
 
+       //code of priyabranch
+		//code2
 
 	}
 
