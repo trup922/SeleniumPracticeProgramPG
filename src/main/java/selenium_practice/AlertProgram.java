@@ -35,7 +35,11 @@ public class AlertProgram {
 		prompalert.sendKeys("Priya123");
 		prompalert.accept();
 		
-		//Alert2
+		//Added by priya
+		WebElement dismissAler2= driver.findElement(By.id("my-confirm"));
+		dismissAler2.click();
+		Alert alert2 = driver.switchTo().alert();
+		alert2.dismiss();
 
 
 	}
