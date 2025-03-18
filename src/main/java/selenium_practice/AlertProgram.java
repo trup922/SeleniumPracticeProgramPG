@@ -40,9 +40,10 @@ public class AlertProgram {
 		dismissAler2.click();
 		Alert alert2 = driver.switchTo().alert();
 		alert2.dismiss();
-
        //code of priyabranch
 		//code2
+      //Added code on main branch
+		//code main
 
 	}
 
