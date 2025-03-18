@@ -41,7 +41,8 @@ public class AlertProgram {
 		Alert alert2 = driver.switchTo().alert();
 		alert2.dismiss();
 
-
+      //Added code on main branch
+		//code main
 	}
 
 }
